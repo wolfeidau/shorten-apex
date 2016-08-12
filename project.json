@@ -1,0 +1,9 @@
+
+{
+  "name": "shorten-apex",
+  "description": "URL shortener using apex.",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::170889777468:role/shorten-apex_lambda_function",
+  "environment": {}
+}
